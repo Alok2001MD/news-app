@@ -16,17 +16,17 @@ const Navbar = () => {
       </div>
       <div>
         <ul className="hidden mdl:inline-flex items-center gap-6 lg:gap-10">
-            <li className="text-base font-normal text-gray-400 tracking-wide cursor-pointer hover:text-designColor duration-300">
+            <li className="text-base font-normal text-designColor tracking-wide cursor-pointer hover:text-designColor duration-300">
               <Link to='/'>
                 Home
               </Link>
             </li>
-            <li className="text-base font-normal text-gray-400 tracking-wide cursor-pointer hover:text-designColor duration-300">
+            <li className="text-base font-normal text-designColor  tracking-wide cursor-pointer hover:text-designColor duration-300">
               <Link to={'/contact'}>
                 Contact
               </Link>
             </li>
-            <li className="text-base font-normal text-gray-400 tracking-wide cursor-pointer hover:text-designColor duration-300">
+            <li className="text-base font-normal text-designColor  tracking-wide cursor-pointer hover:text-designColor duration-300">
               <Link to={'/subscribe'}>
                 Subscribe
               </Link>
