@@ -48,18 +48,27 @@ const Navbar = () => {
   
               </ul>
               <div className="flex flex-col gap-4">
+                <Link to={"/"}>
+                <li className="text-base uppercase font-titleFont mb-4 " style={{listStyle:"none"}}>Home</li>
+                </Link>
+                <Link to={"/contact"}>
+                <li className="text-base uppercase font-titleFont mb-4" style={{listStyle:"none"}}>Contact Us</li>
+                </Link>
+                <Link to={"/subscribe"}>
+                <li className="text-base uppercase font-titleFont mb-4"style={{listStyle:"none"}}>Subscribe</li>
+                </Link>
                 <h2 className="text-base uppercase font-titleFont mb-4">
                   Find me in
                 </h2>
                 <div className="flex gap-4">
                   <span className="bannerIcon">
-                    <FaFacebookF />
+                    <FaFacebookF  to='facebook.com'/>
                   </span>
                   <span className="bannerIcon">
-                    <FaTwitter />
+                    <FaTwitter  to='twitter.com'/>
                   </span>
                   <span className="bannerIcon">
-                    <FaLinkedinIn />
+                    <FaLinkedinIn to='https://www.linkedin.com/in/alok-mattihalli-047854221/' />
                   </span>
                 </div>
               </div>
