@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+      {
+        "source": {
+          "id": "techcrunch",
+          "name": "TechCrunch"
+        },
+        "author": "Connie Loizos",
+        "title": "Human composting and timber marketplaces: talking “industrial” VC with investor Dayna Grayson | TechCrunch",
+        "description": "While the venture world is abuzz over generative AI, Dayna Grayson, a longtime venture capitalist who five years ago co-founded her own firm, Construct",
+        "url": "https://techcrunch.com/2024/05/04/human-composting-and-timber-marketplaces-talking-industrial-vc-with-investor-dayna-grayson/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/05/DR1-1.jpg?resize=1200,960",
+        "publishedAt": "2024-05-04T19:26:38Z",
+        "content": "While the venture world is abuzz over generative AI, Dayna Grayson, a longtime venture capitalist who five years ago co-founded her own firm, Construct Capital, has been focused on comparatively bori… [+7618 chars]"
+      },
+      {
+        "source": {
+          "id": "techcrunch",
+          "name": "TechCrunch"
+        },
+        "author": "Anthony Ha",
+        "title": "Farewell, dunks? Threads launches quote controls for all users | TechCrunch",
+        "description": "Threads users can now exert more control over who can quote their posts. This builds on a feature that already allows Threads users to limit who can reply",
+        "url": "https://techcrunch.com/2024/05/04/farewell-dunks-threads-launches-quote-controls-for-all-users/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/02/Instagram-Threads-GettyImages-1795093602.jpeg?resize=1200,728",
+        "publishedAt": "2024-05-04T16:16:49Z",
+        "content": "Threads users can now exert more control over who can quote their posts.\r\nThis builds on a feature that already allows Threads users to limit who can reply to their posts (competing services like X a… [+1515 chars]"
+      },
+      {
+        "source": {
+          "id": "techcrunch",
+          "name": "TechCrunch"
+        },
+        "author": "Dominic-Madori Davis",
+        "title": "Women in AI: Tara Chklovski is teaching the next generation of AI innovators | TechCrunch",
+        "description": "Tara Chklovski is the CEO and founder of Technovation, a nonprofit that helps teach young girls about technology and entrepreneurship.",
+        "url": "https://techcrunch.com/2024/05/04/women-in-ai-tara-chklovski-is-teaching-the-next-generation-of-ai-innovators/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/05/women-in-ai-chklovski.jpg?resize=1200,675",
+        "publishedAt": "2024-05-03T22:21:19Z",
+        "content": "To give AI-focused women academics and others their well-deserved and overdue time in the spotlight, TechCrunch has been publishing a series of interviews focused on remarkable women whove contribute… [+5076 chars]"
+      },
+      {
+        "source": {
+          "id": "techcrunch",
+          "name": "TechCrunch"
+        },
+        "author": "Kyle Wiggers and Devin Coldewey",
+        "title": "This Week in AI: Generative AI and the problem of compensating creators | TechCrunch",
+        "description": "In this edition of This Week in AI, we take a look at research from an OpenAI scientist on compensating data set contributors.",
+        "url": "https://techcrunch.com/2024/05/04/this-week-in-ai-generative-ai-and-the-problem-of-compensating-creators/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2018/10/GettyImages-10361493101.jpg?resize=1200,800",
+        "publishedAt": "2024-05-03T21:46:32Z",
+        "content": "Keeping up with an industry as fast-moving as AI is a tall order. So until an AI can do it for you, heres a handy roundup of recent stories in the world of machine learning, along with notable resear… [+8663 chars]"
+      },
+      {
+        "source": {
+          "id": "techcrunch",
+          "name": "TechCrunch"
+        },
+        "author": "Marina Temkin",
+        "title": "Iconiq raises $5.15B toward seventh flagship fund | TechCrunch",
+        "description": "Iconiq Capital has raised $5.15 billion across two funds associated with the seventh growth fund family, according to SEC filings. The firm, which",
+        "url": "https://techcrunch.com/2024/05/03/iconiq-raises-5-15b-toward-seventh-flagship-fund/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/06/Pigment-co-founders.jpg?resize=1200,800",
+        "publishedAt": "2024-05-03T21:42:59Z",
+        "content": "Iconiq Capital has raised $5.15 billion across two funds associated with the seventh growth fund family, according to SEC filings.\r\nThe firm, which launched in 2011 as a private office managing capit… [+2087 chars]"
+      },
+      {
+        "source": {
+          "id": "techcrunch",
+          "name": "TechCrunch"
+        },
+        "author": "Sean O'Kane",
+        "title": "Luminar cuts 20% of staff and outsources lidar production | TechCrunch",
+        "description": "Luminar is slashing its workforce by 20% and will lean harder on its contract manufacturing partner as part of a restructuring.",
+        "url": "https://techcrunch.com/2024/05/03/luminar-layoffs-reduction-restructuring-lidar/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/04/Screenshot-2023-04-18-at-11.23.28-AM.png?w=1026",
+        "publishedAt": "2024-05-03T21:34:44Z",
+        "content": "Lidar company Luminar is slashing its workforce by 20% and will lean harder on its contract manufacturing partner as part of a restructuring that will shift the company to a more “asset-light” busine… [+1639 chars]"
+      },
+      {
+        "source": {
+          "id": "techcrunch",
+          "name": "TechCrunch"
+        },
+        "author": "Sarah Perez",
+        "title": "X launches Stories on X delivering news summarized by Grok AI | TechCrunch",
+        "description": "X's Premium subscribers will be able to read a summary of posts on X associated with each trending story featured on the \"For You\" tab in Explore.",
+        "url": "https://techcrunch.com/2024/05/03/x-launches-stories-on-x-delivering-news-summarized-by-grok-ai/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/08/twitter-x-logo-musk-pattern.jpg?resize=1200,675",
+        "publishedAt": "2024-05-03T20:16:20Z",
+        "content": "X, formerly Twitter, is now using Elon Musk’s AI chatbot Grok to power a feature that summarizes the personalized trending stories in the app’s Explore section. According to an announcement and scree… [+4945 chars]"
+      },
+      {
+        "source": {
+          "id": "techcrunch",
+          "name": "TechCrunch"
+        },
+        "author": "Rebecca Szkutak",
+        "title": "Amae Health is building an in-person approach to mental healthcare in an increasingly digital space | TechCrunch",
+        "description": "While many recent mental health-focused startups are digital first, Amae Health focuses on the importance of in-person care.",
+        "url": "https://techcrunch.com/2024/05/04/deal-dive-amae-health-is-building-an-in-person-approach-to-mental-healthcare-in-an-increasingly-digital-space/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/05/GettyImages-1489393164.jpg?resize=1200,744",
+        "publishedAt": "2024-05-03T18:53:25Z",
+        "content": "When Sonia García and Stas Sokolin decided to launch Amae Health to solve the broken care system for people with severe mental illness, they were already intimately familiar with the industry’s issue… [+4876 chars]"
+      },
+      {
+        "source": {
+          "id": "techcrunch",
+          "name": "TechCrunch"
+        },
+        "author": "Kyle Wiggers",
+        "title": "Why RAG won't solve generative AI's hallucination problem | TechCrunch",
+        "description": "RAG is being pitched as a solution of sorts to generative AI hallucinations. But there's limits to what the technique can do.",
+        "url": "https://techcrunch.com/2024/05/04/why-rag-wont-solve-generative-ais-hallucination-problem/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-507492447.jpg?resize=1200,900",
+        "publishedAt": "2024-05-03T18:45:22Z",
+        "content": "Hallucinations — the lies generative AI models tell, basically — are a big problem for businesses looking to integrate the technology into their operations.\r\nBecause models have no real intelligence … [+5463 chars]"
+      },
+      {
+        "source": {
+          "id": "techcrunch",
+          "name": "TechCrunch"
+        },
+        "author": "Kyle Wiggers",
+        "title": "Google lays off workers, Tesla cans its Supercharger team and UnitedHealthcare reveals security lapses | TechCrunch",
+        "description": "In this edition of Week in Review (WiR), we recap Google's recent layoffs -- and Tesla's -- and the UnitedHealthcare hacks.",
+        "url": "https://techcrunch.com/2024/05/04/google-lays-off-workers-tesla-cans-its-supercharger-team-and-unitedhealthcare-reveals-security-lapses/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/05/GettyImages-1062086882.jpg?resize=1200,800",
+        "publishedAt": "2024-05-03T02:53:19Z",
+        "content": "Welcome, folks, to Week in Review (WiR), TechCrunch’s regular newsletter that recaps the week that was in tech. This edition’s a tad bittersweet for me it’ll be my last (for a while, anyway). Soon, I… [+3488 chars]"
+      }
+    ]
+  }

@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import axios from 'axios';
 import { Link } from 'react-router-dom';
+import data from "../../data.json"
 
 const ProjectsCard = ({ title, des, src }) => {
   const [articles, setArticles] = useState([]);
@@ -9,15 +10,15 @@ const ProjectsCard = ({ title, des, src }) => {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response = await axios.get("https://newsapi.org/v2/top-headlines?sources=techcrunch&apiKey=268cc28159da4f5b9f9a4e0dc099fcb5");
-        setArticles(response.data.articles);
+        setArticles(data.articles);
       } catch (error) {
         console.log("Fetching error", error);
       }
     };
-
+  
     fetchData();
   }, []);
+  
 
   const articlesToShow = showAll ? articles : articles.slice(0, 6);
 
