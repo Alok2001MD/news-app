@@ -2,10 +2,12 @@ import React, { useEffect, useState } from 'react';
 import axios from 'axios';
 import { Link } from 'react-router-dom';
 import data from "../../data.json"
+import { useParams } from 'react-router-dom';
 
 const ProjectsCard = ({ title, des, src }) => {
   const [articles, setArticles] = useState([]);
   const [showAll, setShowAll] = useState(false);
+  const { index } = useParams();
 
   useEffect(() => {
     const fetchData = async () => {
