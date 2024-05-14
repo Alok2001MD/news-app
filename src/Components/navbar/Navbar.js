@@ -64,6 +64,7 @@ const Navbar = () => {
   
               </ul>
               <div className="flex flex-col gap-4">
+              <IoIosNotifications  className='w-10 h-7 text-designColor ' onClick={handleclick} />
                 <Link to={"/"}>
                 <li className="text-base uppercase font-titleFont mb-4 " style={{listStyle:"none"}}>Home</li>
                 </Link>
