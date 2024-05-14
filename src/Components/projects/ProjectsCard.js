@@ -1,13 +1,10 @@
 import React, { useEffect, useState } from 'react';
-import axios from 'axios';
 import { Link } from 'react-router-dom';
 import data from "../../data.json"
-import { useParams } from 'react-router-dom';
 
 const ProjectsCard = ({ title, des, src }) => {
   const [articles, setArticles] = useState([]);
   const [showAll, setShowAll] = useState(false);
-  const { index } = useParams();
 
   useEffect(() => {
     const fetchData = async () => {
@@ -26,7 +23,7 @@ const ProjectsCard = ({ title, des, src }) => {
 
   return (
     <>
-      <h1 className="mt-20 md:mt-0 text-4xl md:text-7xl font-bold bg-clip-text text-transparent bg-gradient-to-b from-neutral-50 to-neutral-400 flex justify-center mb-10 " id='scroll'>Latest News</h1>
+      <h1 className="mt-20 md:mt-0 text-4xl md:text-7xl font-bold bg-clip-text text-transparent bg-gradient-to-b from-neutral-50 to-neutral-400 flex justify-center mb-10 " id="scroll">Latest News</h1>
       <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-3 gap-4">
         {articlesToShow.map((article, index) => (
           <Link to={`/article/${index}`} key={index} className="card-link">

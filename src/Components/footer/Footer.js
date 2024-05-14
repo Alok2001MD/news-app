@@ -1,7 +1,7 @@
 import React from 'react'
 import { FaFacebookF, FaTwitter, FaLinkedinIn } from "react-icons/fa";
 import { logo } from '../../assets';
-
+import { Link } from 'react-router-dom';
 const Footer = () => {
   return (
     <div className="w-full py-20 h-auto border-b-[1px] border-b-black grid grid-cols-1 md:grid-cols-2 lgl:grid-cols-4 gap-8">
@@ -33,20 +33,12 @@ const Footer = () => {
             </a>
           </li>
           <li>
-            <a href='#features'>
-            <span className="w-full text-lg relative hover:text-designColor duration-300 group cursor-pointer">
-              Services
-              <span className="w-full h-[1px] bg-designColor inline-flex absolute left-0 -bottom-1 -translate-x-[100%] group-hover:translate-x-0 transition-transform duration-300"></span>
-            </span>
-            </a>
-          </li>
-          <li>
-            <a href='#contact'>
+            <Link to={"/contact"}>
             <span className="w-full text-lg relative hover:text-designColor duration-300 group cursor-pointer">
               Contact
               <span className="w-full h-[1px] bg-designColor inline-flex absolute left-0 -bottom-1 -translate-x-[100%] group-hover:translate-x-0 transition-transform duration-300"></span>
             </span>
-            </a>
+            </Link>
           </li>
         </ul>
       </div>

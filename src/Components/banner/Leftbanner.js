@@ -1,6 +1,6 @@
 import React from "react";
 
-
+import { Link } from "react-router-dom";
 
 const Leftbanner = () => {
   return <>
@@ -11,12 +11,12 @@ const Leftbanner = () => {
       <p className="mt-6 font-normal text-base md:text-lg text-neutral-300 max-w-lg mx-auto">Stay informed with our latest news articles covering a wide range of topics. Explore breaking news, insightful analyses, and in-depth reports to stay ahead of the curve..</p>
         </div>
         <div className="flex justify-center mt-4">
-                    {/* <Link to={"#scroll"}> */}
+                    <Link to={"#scroll"}>
                     <button className="bg-gray-600 text-white hover:text-red-700 text-white font-bold py-2 px-4 rounded-full"
                     >
                         Explore More
                     </button>
-                    {/* </Link> */}
+                    </Link>
                 </div>
     </div>
                     
