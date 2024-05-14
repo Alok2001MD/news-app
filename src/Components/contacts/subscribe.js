@@ -12,6 +12,7 @@ function Subscibe() {
     }
     else{
       toast.success("Thank You For Subscription")
+      setInput('')
     }
   }
   return (
